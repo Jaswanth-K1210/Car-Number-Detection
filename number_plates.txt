@@ -1,0 +1,49 @@
+\ <a,, Start: 2024-09-26 20:06:23, End: 2024-09-26 20:06:38
+ap 39KD/778, Status: Invalid, Time: 2024-09-26 20:19:53
+[ap 39k07778, Status: Invalid, Time: 2024-09-26 20:19:54
+AP39KD7778, Status: Invalid, Time: 2024-09-26 20:19:54
+ap 3907778, Status: Invalid, Time: 2024-09-26 20:19:55
+Ap 39K07778, Status: Invalid, Time: 2024-09-26 20:19:55
+‘np 39K07778, Status: Invalid, Time: 2024-09-26 20:19:55
+Ap39K07778, Status: Invalid, Time: 2024-09-26 20:19:56
+AP39KD7778, Status: Invalid, Time: 2024-09-26 20:19:56
+AP39KD7778, Status: Invalid, Time: 2024-09-26 20:19:56
+AP3SKD7778, Status: Invalid, Time: 2024-09-26 20:19:57
+‘Ap 39K07778, Status: Invalid, Time: 2024-09-26 20:19:58
+Ap39K07778, Status: Invalid, Time: 2024-09-26 20:19:59
+|AP39KD7778, Status: Invalid, Time: 2024-09-26 20:19:59
+ap39KD7778, Status: Invalid, Time: 2024-09-26 20:19:59
+Ap39KD7778, Status: Invalid, Time: 2024-09-26 20:20:00
+AP39KD7778, Status: Invalid, Time: 2024-09-26 20:20:00
+AP39K07778, Status: Invalid, Time: 2024-09-26 20:20:00
+1AP39KD7778, Status: Invalid, Time: 2024-09-26 20:20:01
+|AP39K07778, Status: Invalid, Time: 2024-09-26 20:20:01
+Ap39KD7778, Status: Invalid, Time: 2024-09-26 20:20:01
+AP39K07778, Status: Invalid, Time: 2024-09-26 20:20:02
+AP39KD7778, Status: Invalid, Time: 2024-09-26 20:20:02
+AP39K07778, Status: Invalid, Time: 2024-09-26 20:20:02
+Ap 39K07778, Status: Invalid, Time: 2024-09-26 20:21:08
+ap39K07778, Status: Invalid, Time: 2024-09-26 20:21:08
+4p 39K07778, Status: Invalid, Time: 2024-09-26 20:21:09
+AP3SKD7778, Status: Invalid, Time: 2024-09-26 20:21:09
+AP39K07778, Status: Invalid, Time: 2024-09-26 20:21:09
+AP39KD7778, Status: Invalid, Time: 2024-09-26 20:21:10
+14P39K07778, Status: Invalid, Time: 2024-09-26 20:21:10
+AP39K07778,, Status: Invalid, Time: 2024-09-26 20:21:10
+AP 39KD7778|, Status: Invalid, Time: 2024-09-26 20:21:11
+AP39KD7778|, Status: Invalid, Time: 2024-09-26 20:21:11
+AP39KD7778, Status: Invalid, Time: 2024-09-26 20:21:12
+AP39KD7778!, Status: Invalid, Time: 2024-09-26 20:21:12
+AP 39KD7778|, Status: Invalid, Time: 2024-09-26 20:21:12
+sAP39KD7778|, Status: Invalid, Time: 2024-09-26 20:21:12
+EAP 39KD7778|, Status: Invalid, Time: 2024-09-26 20:21:13
+AP33KD7778), Status: Invalid, Time: 2024-09-26 20:21:13
+4P49KD7778, Status: Invalid, Time: 2024-09-26 20:21:14
+4P39K07778,, Status: Invalid, Time: 2024-09-26 20:21:14
+AP39K07778;, Status: Invalid, Time: 2024-09-26 20:21:15
+AP 39KD7778,, Status: Invalid, Time: 2024-09-26 20:21:15
+3.4P39KD7778, Status: Invalid, Time: 2024-09-26 20:21:15
+AP39KD7778|, Status: Invalid, Time: 2024-09-26 20:21:16
+AP39KD7778), Status: Invalid, Time: 2024-09-26 20:21:16
+AP39KD7778,, Status: Invalid, Time: 2024-09-26 20:21:16
+AP39KD7778, Status: Invalid, Time: 2024-09-26 20:21:17
