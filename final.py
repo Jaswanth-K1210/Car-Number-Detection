@@ -7,7 +7,7 @@ import re
 pytesseract.pytesseract.tesseract_cmd = '/usr/local/bin/tesseract'
 
 def is_valid_number_plate(text):
-    # Define the regex pattern for valid number plates
+    # Define the regex pattern for valid number plate
     pattern = r'^[A-Z]{2} \d{2} [A-Z]{2} \d{4}$'
     return re.match(pattern, text) is not None
 
