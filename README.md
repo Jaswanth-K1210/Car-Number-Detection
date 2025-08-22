@@ -1,7 +1,4 @@
-# Car-Number-Detection
-Here’s a polished, professional README for your **Car-Number-Detection** repo, tailored for clarity, impact, and usability:
 
-***
 
 # Car-Number-Detection
 
@@ -91,9 +88,3 @@ This project is open-source under the MIT License.
 
 Developed by [Jaswanth Koppisetty](mailto:koppisettyjaswanth@gmail.com)
 
-***
-
-Copy-paste and customize as needed for your repo’s details or additional instructions!
-
-Sources
-[1] GitHub - Jaswanth-K1210/Car-Number-Detection: This is a python project for detecting indian number plate https://github.com/Jaswanth-K1210/Car-Number-Detection
